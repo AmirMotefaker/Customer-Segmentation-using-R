@@ -8,3 +8,13 @@
 - Companies that deploy customer segmentation are under the notion that every customer has different requirements and require a specific marketing effort to address them appropriately. Companies aim to gain a deeper approach of the customer they are targeting. Therefore, their aim has to be specific and should be tailored to address the requirements of each and every individual customer. Furthermore, through the data collected, companies can gain a deeper understanding of customer preferences as well as the requirements for discovering valuable segments that would reap them maximum profit. This way, they can strategize their marketing techniques more efficiently and minimize the possibility of risk to their investment.
 
 - The technique of customer segmentation is dependent on several key differentiators that divide customers into groups to be targeted. Data related to demographics, geography, economic status as well as behavioral patterns play a crucial role in determining the company direction towards addressing the various segments.
+
+# Five types of customer segmentation:
+
+- Demographic Segmentation: This segmentation divides the customer market based on gender, age, occupation, etc.
+- Geographic Segmentation: This segmentation divides the customer market based on country, state, city, and locality.
+- Technographic Segmentation: This segmentation divides the customer market on the basis of apps, software, and devices.
+- Psychographic Segmentation: This segmentation divides the customer segmentation on the basis of attitudes, values, and personal traits.
+- Behavioral Segmentation: This kind of segmentation divides the customer market on the basis of actions, spending habits, and how they consume.
+
+Reference: [Understanding the Benefits of Customer Segmentation](https://bython.com/benefits-of-customer-segmentation/)
