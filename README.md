@@ -25,17 +25,17 @@
 2. Enhances Competitiveness
     - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of their showcasing financial plans, it acquires a serious edge over opponent organizations. On the off chance that you section up your market, you are not able to your clients and as needs are.
 
-Establishes Brand Identity
-Distinguishing your image will assist your clients with straightforwardly captivating your items. Whenever you have distinguished the vital helpers for your client, for example, plan or cost or user requirements, you can mark your items properly. By dividing your clients, you can make them very much aware of your image.
+3. Establishes Brand Identity
+    - Distinguishing your image will assist your clients with straightforwardly captivating your items. Whenever you have distinguished the vital helpers for your client, for example, plan or cost or user requirements, you can mark your items properly. By dividing your clients, you can make them very much aware of your image.
 
-Better Customer Relationship
-Breaking down a huge client base into more reasonable pieces, making it simpler to distinguish your intended interest group and dispatch missions to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
+4. Better Customer Relationship
+    - Breaking down a huge client base into more reasonable pieces, making it simpler to distinguish your intended interest group and dispatch missions to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
 
-Leads to Price Optimization
-No business is successful without a good customer base. In order to have one, you need to cater to their primary issues like what their income range is while setting a price for a particular product. This is what price optimization is. The better suited your product price range is according to a customer’s budget, the more your customers will buy it.
+5. Leads to Price Optimization
+    - No business is successful without a good customer base. In order to have one, you need to cater to their primary issues like what their income range is while setting a price for a particular product. This is what price optimization is. The better suited your product price range is according to a customer’s budget, the more your customers will buy it.
 
-Best Economies of Scale
-Economies of scale is a position where you can reach your specific goal at the minimum cost possible. This can be done through efficient customer segmentation as it helps divide customers into different segments and later, you can focus on limited resources being cost-effective.
+6. Best Economies of Scale
+    - Economies of scale is a position where you can reach your specific goal at the minimum cost possible. This can be done through efficient customer segmentation as it helps divide customers into different segments and later, you can focus on limited resources being cost-effective.
 
 Improves Channel of Distribution
 Customer segmentation can help with distinguishing where clients shop and when can educationally shape item disseminations systems, for example, what sort of items are sold at specific outlets. This will eliminate disarray among your colleagues about whom they need to convey the item and at what time.
