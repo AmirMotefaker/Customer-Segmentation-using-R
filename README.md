@@ -20,10 +20,10 @@
 
 # Benefit of Customer Segmentation for Business:
 1. More Customer Retention
-  - Customer retention permits you to gain proficiency with an extraordinary arrangement about your clients so you can take into account their necessities all the more proficiently.  A one-on-one association with your clients will assist you with winning fulfilled clients. You can likewise tailor your correspondence relying upon the client lifecycle.
+    - Customer retention permits you to gain proficiency with an extraordinary arrangement about your clients so you can take into account their necessities all the more proficiently.  A one-on-one association with your clients will assist you with winning fulfilled clients. You can likewise tailor your correspondence relying upon the client lifecycle.
 
-Enhances Competitiveness
-The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of their showcasing financial plans, it acquires a serious edge over opponent organizations. On the off chance that you section up your market, you are not able to your clients and as needs are.
+2. Enhances Competitiveness
+    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of their showcasing financial plans, it acquires a serious edge over opponent organizations. On the off chance that you section up your market, you are not able to your clients and as needs are.
 
 Establishes Brand Identity
 Distinguishing your image will assist your clients with straightforwardly captivating your items. Whenever you have distinguished the vital helpers for your client, for example, plan or cost or user requirements, you can mark your items properly. By dividing your clients, you can make them very much aware of your image.
