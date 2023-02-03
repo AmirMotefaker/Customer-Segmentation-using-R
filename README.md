@@ -48,4 +48,6 @@
 
 10. Increase Brand Awareness
 - Customizing marketing correspondence for clients prompts a superior connection between the client and the business. This can significantly improve client devotion. Recognizing your client as beyond what another individual from your email data set can go far for your image value.
+
+
 Reference: [Understanding the Benefits of Customer Segmentation](https://bython.com/benefits-of-customer-segmentation/)
