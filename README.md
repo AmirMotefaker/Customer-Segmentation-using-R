@@ -44,10 +44,10 @@
     - Dividing customers into segments can actually help you identify what kind of audience you are targeting and hence, can help you deliver your message accordingly. One way to convert visitors into customers is by grabbing their attention and this can be done through customer segmentation.
 
 9. Increases Your Revenue
-- During the way toward gathering your clients into groups, you may find that you have recognized another market portion, which could thus adjust your advertising center and procedure to fit. This channel of ideas from customer preferences is what will help you convince them to buy your product hence generating a greater portion of revenue for you.
+    - During the way toward gathering your clients into groups, you may find that you have recognized another market portion, which could thus adjust your advertising center and procedure to fit. This channel of ideas from customer preferences is what will help you convince them to buy your product hence generating a greater portion of revenue for you.
 
 10. Increase Brand Awareness
-- Customizing marketing correspondence for clients prompts a superior connection between the client and the business. This can significantly improve client devotion. Recognizing your client as beyond what another individual from your email data set can go far for your image value.
+    - Customizing marketing correspondence for clients prompts a superior connection between the client and the business. This can significantly improve client devotion. Recognizing your client as beyond what another individual from your email data set can go far for your image value.
 
 
 Reference: [Understanding the Benefits of Customer Segmentation](https://bython.com/benefits-of-customer-segmentation/)
