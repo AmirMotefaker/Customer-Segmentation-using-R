@@ -3,11 +3,11 @@
 - Customer Segmentation is one of the most important applications of unsupervised learning. Using clustering techniques, companies can identify several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering which is the essential algorithm for clustering unlabeled datasets.
 
 # What is Customer Segmentation?
-- Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
+- Customer Segmentation is the process of dividing of the customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
 
-- Companies that deploy customer segmentation are under the notion that every customer has different requirements and require a specific marketing effort to address them appropriately. Companies aim to gain a deeper approach of the customer they are targeting. Therefore, their aim has to be specific and should be tailored to address the requirements of each and every individual customer. Furthermore, through the data collected, companies can gain a deeper understanding of customer preferences as well as the requirements for discovering valuable segments that would reap them maximum profit. This way, they can strategize their marketing techniques more efficiently and minimize the possibility of risk to their investment.
+- Companies that deploy customer segmentation are under the notion that every customer has different requirements and requires a specific marketing effort to address them appropriately. Companies aim to gain a deeper approach to the customer they are targeting. Therefore, their aim has to be specific and should be tailored to address the requirements of each and every individual customer. Furthermore, through the data collected, companies can gain a deeper understanding of customer preferences as well as the requirements for discovering valuable segments that would reap them maximum profit. This way, they can strategize their marketing techniques more efficiently and minimize the possibility of risk to their investment.
 
-- The technique of customer segmentation is dependent on several key differentiators that divide customers into groups to be targeted. Data related to demographics, geography, economic status as well as behavioral patterns play a crucial role in determining the company direction towards addressing the various segments.
+- The technique of customer segmentation is dependent on several key differentiators that divide customers into groups to be targeted. Data related to demographics, geography, economic status as well as behavioral patterns play a crucial role in determining the company's direction toward addressing the various segments.
 
 # Five types of customer segmentation:
 
@@ -23,7 +23,7 @@
     - Customer retention permits you to gain proficiency with an extraordinary arrangement about your clients so you can take into account their necessities all the more proficiently.  A one-on-one association with your clients will assist you with winning fulfilled clients. You can likewise tailor your correspondence relying upon the client lifecycle.
 
 2. Enhances Competitiveness
-    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of their showcasing financial plans, it acquires a serious edge over opponent organizations. On the off chance that you section up your market, you are not able to your clients and as needs are.
+    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its showcasing financial plans, it acquires a serious edge over opponent organizations. On the off chance that you section up your market, you are not able to your clients and as needs are.
 
 3. Establishes Brand Identity
     - Distinguishing your image will assist your clients with straightforwardly captivating your items. Whenever you have distinguished the vital helpers for your client, for example, plan or cost or user requirements, you can mark your items properly. By dividing your clients, you can make them very much aware of your image.
@@ -38,7 +38,7 @@
     - Economies of scale is a position where you can reach your specific goal at the minimum cost possible. This can be done through efficient customer segmentation as it helps divide customers into different segments and later, you can focus on limited resources being cost-effective.
 
 7. Improves Channel of Distribution
-    - Customer segmentation can help with distinguishing where clients shop and when can educationally shape item disseminations systems, for example, what sort of items are sold at specific outlets. This will eliminate disarray among your colleagues about whom they need to convey the item and at what time.
+    - Customer segmentation can help with distinguishing where clients shop and when can educationally shape item dissemination systems, for example, what sort of items are sold at specific outlets. This will eliminate disarray among your colleagues about whom they need to convey the item and at what time.
 
 8. It Allows You to Fine-Tune Your Message
     - Dividing customers into segments can actually help you identify what kind of audience you are targeting and hence, can help you deliver your message accordingly. One way to convert visitors into customers is by grabbing their attention and this can be done through customer segmentation.
