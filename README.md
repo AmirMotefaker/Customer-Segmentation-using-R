@@ -28,7 +28,7 @@
 3. Establishes Brand Identity
     - Distinguishing your image will assist your clients with straightforwardly captivating your items. Whenever you have distinguished the vital helpers for your client, for example, plan or cost or user requirements, you can mark your items properly. By dividing your clients, you can make them very much aware of your image.
 
-4. Betr Customer Relationship
+4. Better Customer Relationship
     - Breaking down a huge client base into more reasonable pieces, making it simpler to distinguish your intended interest group and dispatch missions to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
 
 5. Leads to Price Optimization
