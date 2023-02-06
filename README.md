@@ -46,7 +46,7 @@
 9. Increases Your Revenue
     - During the way toward gathering your clients into groups, you may find that you have recognized another market portion, which could thus adjust your advertising center and procedure to fit. This channel of ideas from customer preferences is what will help you convince them to buy your product hence generating a greater portion of revenue for you.
 
-10. Inease Brand Awareness
+10. Inecase Brand Awareness
     - Customizing marketing correspondence for clients prompts a superior connection between the client and the business. This can significantly improve client devotion. Recognizing your client as beyond what another individual from your email data set can go far for your image value.
 
 
