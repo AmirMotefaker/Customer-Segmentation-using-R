@@ -9,7 +9,7 @@
 
 - The technique of customer segmentation is dependent on several key differentiators that divide customers into groups to be targeted. Data related to demographics, geography, economic status as well as behavioral patterns play a crucial role in determining the company's direction toward addressing the various segments.
 
-# Five types of customer segmentation:
+# Five types of customer segmenion:
 
 - Demographic Segmentation: This segmentation divides the customer market based on gender, age, occupation, etc.
 - Geographic Segmentation: This segmentation divides the customer market based on country, state, city, and locality.
