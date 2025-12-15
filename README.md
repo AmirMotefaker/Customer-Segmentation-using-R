@@ -76,6 +76,6 @@ Reference: [Understanding the Benefits of Customer Segmentation](https://bython.
 
 Reference: [K-means Cluster Analysis](https://uc-r.github.io/kmeans_clustering#gap)
 
-- We can use the Gap Statistic Method for any of the clustering methods like K-means, hierarchical clustering, etc. Using the gap statistic, one can compare the total intracluster variation for different values of k along with their expected values under the null reference distribution of data. With the help of Monte Carlo simulations, one can produce the sample dataset. For each variable in the dataset, we can calculate the range between min(xi) and max (xj) through which we can produce values uniformly from interval's lower bound to upper bound.
+- We can use the Gap Statistic Method for any of the clustering methods like K-means, hierarchical clustering, etc. Using the gap statistic, one can compare the total intracluster variation for different values of k along with their expected values under the null reference distribution of data. With the help of Monte Carlo simulations, one can produce the sample dataset. For each variable in the dataset, we can calculate the range between min(xi) and max (xj) through which we can produce values uniformly from the interval's lower bound to upper bound.
 
 - For computing the gap statistics method, we can utilize the clusGap function to provide gap statistics as well as standard error for a given output.
