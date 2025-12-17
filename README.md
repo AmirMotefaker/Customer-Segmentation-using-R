@@ -1,4 +1,4 @@
-# Cuomer Segmentation using R
+# Customer Segmentation using R
 
 - Customer Segmentation is one of the most important applications of unsupervised learning. Using clustering techniques, companies can identify several segments of customers, allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering, which is the essential algorithm for clustering unlabeled datasets.
 
@@ -20,7 +20,7 @@
 
 # Benefit of Customer Segmentation for Business:
 1. More Customer Retention
-    - Customer retention permits you to gain proficiency with an extraordinary understanding of your clients so you can take into account their needs more effectively.  A one-on-one association with your clients will assist you in winning fulfilled clients. You can likewise tailor your correspondence depending on the client lifecycle.
+    - Customer retention permits you to gain proficiency with an extraordinary understanding of your clients so you can take into account their needs more effectively.  A one-on-one association with your clients will assist you in winning satisfied clients. You can likewise tailor your correspondence depending on the client lifecycle.
 
 2. Enhances Competitiveness
     - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its showcasing financial plans, it acquires a serious edge over opponent competitors. On the off chance that you segment up your market, you are not able to serve your clients as needed.
