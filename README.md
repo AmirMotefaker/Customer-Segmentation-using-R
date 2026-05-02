@@ -1,4 +1,4 @@
-# Customer Segmentation Usng R
+# Customer Segmentation Using R
 
 - Customer Segmentation is one of the most important applications of unsupervised learning. Using clustering techniques, companies can identify several segments of customers, allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering, which is the essential algorithm for clustering unlabeled datasets.
 
@@ -7,7 +7,7 @@
 
 - Companies that deploy customer segmentation are under the notion that every customer has different requirements and requires a specific marketing effort to address them appropriately. Companies aim to gain a deeper approach to the customer they are targeting. Therefore, their aim has to be specific and should be tailored to address the requirements of each and every individual customer. Furthermore, through the data collected, companies can gain a deeper understanding of customer preferences as well as the requirements for discovering valuable segments that would yield them maximum profit. This way, they can strategize their marketing techniques more efficiently and minimize the possibility of risk to their investment.
 
-- The technique of customer segmentation is dependent on several key differentiators that divide customers into groups to be targeted. Data related to demographics, geography, economic status, as well as behavioral patterns play a crucial role in determining the company's direction toward addressing the various segments.
+- The technique of customer segmentation is dependent on several key differentiators that divide customers into groups to be targeted. Data related to demographics, geography, economic status, and behavioral patterns play a crucial role in determining the company's direction toward addressing the various segments.
 
 # Five types of customer segmentation:
 
@@ -23,7 +23,7 @@
     - Customer retention permits you to gain proficiency with an extraordinary understanding of your clients so you can take into account their needs more effectively.  A one-on-one association with your clients will assist you in winning satisfied clients. You can likewise tailor your correspondence depending on the client lifecycle.
 
 2. Enhances Competitiveness
-    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its showcasing financial plans, it acquires a serious edge over opponent competitors. On the off chance that you segment up your market, you are not able to serve your clients as needed.
+    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its showcasing financial plans, it acquires a serious edge over its competitors. On the off chance that you segment up your market, you are not able to serve your clients as needed.
 
 3. Establishes Brand Identity
     - Distinguishing your image will assist your clients in straightforwardly capturing your items. Whenever you have distinguished the vital helpers for your client, for example, a plan or cost, or user requirements, you can mark your items properly. By dividing your clients, you can make them very much aware of your image.
@@ -62,7 +62,7 @@ Reference: [Understanding the Benefits of Customer Segmentation](https://bython.
 
 - K-Means performs three steps. But first, you need to pre-define the number of K. Those cluster points are often called Centroids.
 
-    1) (Re-)assign each data point to its nearest centroid by calculating the Euclidean distance between all points to all centroids.
+    1) (Re-)assign each data point to its nearest centroid by calculating the Euclidean distance between all points and all centroids.
 
     2) Calculate the mean for each centroid based on all respective data points and move the centroid to the middle of all its assigned data points.
 
