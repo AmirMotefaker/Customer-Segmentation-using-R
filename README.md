@@ -1,4 +1,4 @@
-# Custmer Segnation Usng R
+# Customer Segmentation Using R
 
 - Customer Segmentation is one of the most important applications of unsupervised learning. Using clustering techniques, companies can identify several segments of customers, allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering, which is the essential algorithm for clustering unlabeled datasets.
 
@@ -23,10 +23,10 @@
     - Customer retention permits you to gain proficiency with an extraordinary understanding of your clients so you can take into account their needs more effectively.  A one-on-one association with your clients will assist you in winning satisfied clients. You can likewise tailor your correspondence depending on the client lifecycle.
 
 2. Enhances Competitiveness
-    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its showcasing financial plans, it acquires a serious edge over its competitors. On the off chance that you segment up your market, you are not able to serve your clients as needed.
+    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its financial plans, it acquires a serious edge over its competitors. On the off chance that you segment up your market, you are not able to serve your clients as needed.
 
 3. Establishes Brand Identity
-    - Distinguishing your image will assist your clients in straightforwardly capturing your items. Whenever you have distinguished the vital helpers for your client, for example, a plan or cost, or user requirements, you can mark your items properly. By dividing your clients, you can make them very aware of your image.
+    - Distinguishing your image will assist your clients in straightforwardly capturing your items. Whenever you have distinguished the vital helpers for your client, for example, a plan or cost, or user requirements, you can market your items properly. By dividing your clients, you can make them very aware of your image.
 
 4. Better Customer Relationship
     - Breaking down a huge client base into more reasonable pieces, making it simpler to distinguish your intended interest group and dispatch missions to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
@@ -53,7 +53,7 @@
 Reference: [Understanding the Benefits of Customer Segmentation](https://bython.com/benefits-of-customer-segmentation/)
 
 # Gap Statistic Method
-- Abstract The Gap statistic is a standard method for determining the number of clusters in a set of data. The Gap statistic standardizes the graph of log(Wk), where Wk is the within-cluster dispersion, by comparing it to its expectation under an appropriate null reference distribution of the data.
+- Abstract: The Gap statistic is a standard method for determining the number of clusters in a set of data. The Gap statistic standardizes the graph of log(Wk), where Wk is the within-cluster dispersion, by comparing it to its expectation under an appropriate null reference distribution of the data.
 - The gap statistic has been published by [R. Tibshirani, G. Walther, and T. Hastie (Stanford University, 2001) (http://web.stanford.edu/~hastie/Papers/gap.pdf).
 - The ‘gap statistic’ for estimating the number of clusters (groups) in a set of data. The technique uses the output of any clustering algorithm (e.g., K-means or hierarchical), comparing the change in within-cluster dispersion with that expected under an appropriate reference null distribution.
 - Clustering is an important technique in Pattern Analysis to identify distinct groups in data. Due to data being mostly more than three-dimensional, we perform dimensionality reduction methods like PCA or Laplacian Eigenmaps before applying a clustering technique. The data is then available in 2D or 3D, and this allows us to visualize the found clusters very nicely to humans.
