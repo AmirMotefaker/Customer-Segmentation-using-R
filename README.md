@@ -23,13 +23,13 @@
     - Customer retention permits you to gain proficiency with an extraordinary understanding of your clients so you can take into account their needs more effectively.  A one-on-one association with your clients will assist you in winning satisfied clients. You can likewise tailor your correspondence depending on the client lifecycle.
 
 2. Enhances Competitiveness
-    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its financial plans, it acquires a serious edge over its competitors. On the off chance that you segment up your market, you are not able to serve your clients as needed.
+    - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its financial plans, it acquires a serious edge over its competitors. On the off chance that you segment your market, you are not able to serve your clients as needed.
 
 3. Establishes Brand Identity
     - Distinguishing your image will assist your clients in straightforwardly capturing your items. Whenever you have distinguished the vital helpers for your client, for example, a plan or cost, or user requirements, you can market your items properly. By dividing your clients, you can make them very aware of your image.
 
 4. Better Customer Relationship
-    - Breaking down a huge client base into more reasonable pieces, making it simpler to distinguish your intended interest group and dispatch missions to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
+    - Breaking down a huge client base into more reasonable pieces makes it simpler to distinguish your intended interest group and dispatch missions to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
 
 5. Leads to Price Optimization
     - No business is successful without a good customer base. In order to have one, you need to cater to their primary issues, like what their income range is, while setting a price for a particular product. This is what price optimization is. The better suited your product price range is to a customer’s budget, the more your customers will buy it.
