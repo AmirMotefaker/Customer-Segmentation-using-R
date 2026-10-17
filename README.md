@@ -26,16 +26,16 @@
     - The better your customer retention is, the more revenue you are likely to achieve. When a business scores a good customer segmentation along with better utilization of its financial plans, it acquires a serious edge over its competitors. On the off chance that you segment your market, you are not able to serve your clients as needed.
 
 3. Establishes Brand Identity
-    - Distinguishing your image will assist your clients in straightforwardly capturing your items. Whenever you have distinguished the vital helpers for your client, for example, a plan or cost, or user requirements, you can market your items properly. By dividing your clients, you can make them very aware of your image.
+    - Distinguishing your image will assist your clients in straightforwardly capturing your items. Whenever you have identified the vital helpers for your client, for example, a plan or cost, or user requirements, you can market your items properly. By dividing your clients, you can make them very aware of your image.
 
 4. Better Customer Relationship
-    - Breaking down a huge client base into more reasonable pieces makes it simpler to distinguish your intended interest group and dispatch missions to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
+    - Breaking down a huge client base into more reasonable pieces makes it simpler to distinguish your intended interest group and dispatch messages to the most significant individuals, utilizing the most important channel. This creates a good customer relationship as they feel welcomed and heard.
 
 5. Leads to Price Optimization
     - No business is successful without a good customer base. In order to have one, you need to cater to their primary issues, like what their income range is, while setting a price for a particular product. This is what price optimization is. The better suited your product price range is to a customer’s budget, the more your customers will buy it.
 
 6. Best Economies of Scale
-    - Economies of scale are a position where you can reach your specific goal at the minimum cost possible. This can be done through efficient customer segmentation as it helps divide customers into different segments, and later, you can focus on limited resources, being cost-effective.
+    - Economies of scale are a position where you can reach your specific goal at the minimum cost possible. This can be done through efficient customer segmentation, as it helps divide customers into different segments, and later, you can focus on limited resources, being cost-effective.
 
 7. Improves Channel of Distribution
     - Customer segmentation can help with distinguishing where clients shop and when can educationally shape item distribution systems, for example, what sort of items are sold at specific outlets. This will eliminate confusion among your colleagues about whom they need to convey the item and at what time.
@@ -72,7 +72,7 @@ Reference: [Understanding the Benefits of Customer Segmentation](https://bython.
 ### Gap Statistic
 - Even if Gap-Statistics is a good approach to finding a suitable K, it is still not perfect. For example, we needed to introduce a new hyperparameter, namely the number of K for which the W_uniform is simulated. We can’t be sure what the ideal value for this is. Furthermore, the random initialization of the centroids can lead to an over- or underestimation of K*.
 
-- But by knowing all of the aspects of Gap-Statistics, the best is to apply it and then run the Gap-Statistic plot a couple of times. Taking the average of the Gap-Statistics can be an increased evaluation criterion.
+- But by knowing all of the aspects of Gap-Statistics, the best is to apply it and then run the Gap-Statistic plot a couple of times. Taking the average of the Gap Statistics can be an increased evaluation criterion.
 
 Reference: [K-means Cluster Analysis](https://uc-r.github.io/kmeans_clustering#gap)
 
