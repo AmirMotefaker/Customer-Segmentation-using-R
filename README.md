@@ -1,4 +1,4 @@
-# Customer Segmentation Uing R
+# Customer Segmentation Using R
 
 - Customer Segmentation is one of the most important applications of unsupervised learning. Using clustering techniques, companies can identify several segments of customers, allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering, which is an essential algorithm for clustering unlabeled datasets.
 
@@ -38,7 +38,7 @@
     - Economies of scale are a position where you can reach your specific goal at the minimum cost possible. This can be done through efficient customer segmentation, as it helps divide customers into different segments, and later, you can focus on limited resources, being cost-effective.
 
 7. Improves Channel of Distribution
-    - Customer segmentation can help with distinguishing where clients shop and when can educationally shape item distribution systems, for example, what sort of items are sold at specific outlets. This will eliminate confusion among your colleagues about whom they need to convey the item and at what time.
+    - Customer segmentation can help with distinguishing where clients shop and when, and can educationally shape item distribution systems, for example, what sort of items are sold at specific outlets. This will eliminate confusion among your colleagues about whom they need to convey the item and at what time.
 
 8. It Allows You to Fine-Tune Your Message
     - Dividing customers into segments can actually help you identify what kind of audience you are targeting and, hence, can help you deliver your message accordingly. One way to convert visitors into customers is by grabbing their attention, and this can be done through customer segmentation.
