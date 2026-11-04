@@ -1,4 +1,4 @@
-# Customer Segmetation Using R
+# Customer Segmentation Using R
 
 - Customer Segmentation is one of the most important applications of unsupervised learning. Using clustering techniques, companies can identify several segments of customers, allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering, which is an essential algorithm for clustering unlabeled datasets.
 
@@ -54,7 +54,7 @@ Reference: [Understanding the Benefits of Customer Segmentation](https://bython.
 
 # Gap Statistic Method
 - Abstract: The Gap statistic is a standard method for determining the number of clusters in a set of data. The Gap statistic standardizes the graph of log(Wk), where Wk is the within-cluster dispersion, by comparing it to its expectation under an appropriate null reference distribution of the data.
-- The gap statistic has been published by [R. Tibshirani, G. Walther, and T. Hastie (Stanford University, 2001) (http://web.stanford.edu/~hastie/Papers/gap.pdf).
+- The gap statistic has been published by R. Tibshirani, G. Walther, and T. Hastie (Stanford University, 2001) (http://web.stanford.edu/~hastie/Papers/gap.pdf).
 - The ‘gap statistic’ for estimating the number of clusters (groups) in a set of data. The technique uses the output of any clustering algorithm (e.g., K-means or hierarchical), comparing the change in within-cluster dispersion with that expected under an appropriate reference null distribution.
 - Clustering is an important technique in Pattern Analysis to identify distinct groups in data. Due to data being mostly more than three-dimensional, we perform dimensionality reduction methods like PCA or Laplacian Eigenmaps before applying a clustering technique. The data is then available in 2D or 3D, and this allows us to visualize the found clusters very nicely to humans.
 
