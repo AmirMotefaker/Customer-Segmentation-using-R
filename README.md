@@ -54,9 +54,9 @@ Reference: [Understanding the Benefits of Customer Segmentation](https://bython.
 
 # Gap Statistic Method
 - Abstract: The Gap statistic is a standard method for determining the number of clusters in a set of data. The Gap statistic standardizes the graph of log(Wk), where Wk is the within-cluster dispersion, by comparing it to its expectation under an appropriate null reference distribution of the data.
-- The gap statistic has been published by R. Tibshirani, G. Walther, and T. Hastie (Stanford University, 2001) (http://web.stanford.edu/~hastie/Papers/gap.pdf).
+- The gap statistic was published by R. Tibshirani, G. Walther, and T. Hastie (Stanford University, 2001) (http://web.stanford.edu/~hastie/Papers/gap.pdf).
 - The ‘gap statistic’ for estimating the number of clusters (groups) in a set of data. The technique uses the output of any clustering algorithm (e.g., K-means or hierarchical), comparing the change in within-cluster dispersion with that expected under an appropriate reference null distribution.
-- Clustering is an important technique in Pattern Analysis to identify distinct groups in data. Due to data being mostly more than three-dimensional, we perform dimensionality reduction methods like PCA or Laplacian Eigenmaps before applying a clustering technique. The data is then available in 2D or 3D, and this allows us to visualize the found clusters very nicely to humans.
+- Clustering is an important technique in Pattern Analysis to identify distinct groups in data. Due to the data being mostly more than three-dimensional, we perform dimensionality reduction methods like PCA or Laplacian Eigenmaps before applying a clustering technique. The data is then available in 2D or 3D, and this allows us to visualize the found clusters very nicely to humans.
 
 ### K-Means
 
@@ -72,7 +72,7 @@ Reference: [Understanding the Benefits of Customer Segmentation](https://bython.
 ### Gap Statistic
 - Even if Gap-Statistics is a good approach to finding a suitable K, it is still not perfect. For example, we needed to introduce a new hyperparameter, namely the number of K for which the W_uniform is simulated. We can’t be sure what the ideal value for this is. Furthermore, the random initialization of the centroids can lead to an over- or underestimation of K*.
 
-- But by knowing all of the aspects of Gap-Statistics, the best is to apply it and then run the Gap-Statistic plot a couple of times. Taking the average of the Gap Statistics can be an increased evaluation criterion.
+- But by knowing all of the aspects of Gap-Statistics, the best is to apply it and then run the Gap-Statistic plot a couple of times. Taking the average of the Gap Statistics can be an improved evaluation criterion.
 
 Reference: [K-means Cluster Analysis](https://uc-r.github.io/kmeans_clustering#gap)
 
